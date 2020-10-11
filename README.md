@@ -1,5 +1,5 @@
 # Command_Prompt_anywhere
-Hey guys this is a regedit file which make a single change in your system to open cmd anywhere on right clickand select cmd_here
+Hey guys this is a regedit file which make a single change in your system to open cmd anywhere on right click and select cmd_here
 
 (generally powershell will open while holding shift then right click) 
 
