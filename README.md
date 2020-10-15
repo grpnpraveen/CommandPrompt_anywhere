@@ -6,6 +6,6 @@ Hey guys this is a regedit file which make a single change in your system to ope
 
 USAGE:
 
-just open commandpromptanywhere.reg with admin permission then accept all the requets.
+just open commandpromptanywhere.reg with admin permission then accept all the requests.
 
 then test it by right cllicking the cmd_here
