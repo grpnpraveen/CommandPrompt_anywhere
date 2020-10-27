@@ -8,4 +8,4 @@ USAGE:
 
 just open commandpromptanywhere.reg with admin permission then accept all the requests.
 
-then test it by right cllicking the cmd_here
+then test it by right clicking the cmd_here
