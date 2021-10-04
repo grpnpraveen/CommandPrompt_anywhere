@@ -1,4 +1,4 @@
-# Command_Prompt_anywhere
+# Command_Prompt_anywhere for Windows 10
 Hey guys this is a regedit file which make a single change in your system to open cmd anywhere on right click and select cmd_here
 
 (generally powershell will open while holding shift then right click) 
